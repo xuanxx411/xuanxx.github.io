@@ -73,14 +73,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Xuan Xu"
+  avatar           : "xx.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Beijing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "xuxuan411@gmail.com"
+  wechat           : "xuxuan1257"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -89,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xuanxx411.github.io"
   google_plus      :
   keybase          :
   instagram        :
